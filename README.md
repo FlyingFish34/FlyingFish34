@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlyingFish34
 - 👀 I’m interested in video game programming & artificial intelligence!
-- 🌱 I’m currently learning Java, though I want to learn C++ or C# later on!
+- 🌱 I’ve studied Java in college, but I'm learning Python right now!
 - 📫 Reach me on Twitter @FlyingFishTV_
 
 <!---
