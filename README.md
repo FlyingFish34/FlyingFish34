@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Gabriel and I'm a student at PolyMTL!
-- 👀 I’m interested in video game programming, artificial intelligence and electronic hardware!
-- 🌱 I’ve studied Java in the past and I'm currently following a Python course in college, but I'm also learning C++ on my own!
-- 📫 If you're wondering, 34 is indeed my lucky number!
+- # Hello there 👋
+I'm Gabriel. I'm a full time computer science student at Polytechnique Montréal. Over the years, I've learned languages like Java, Python and C++. My interests are AI, cloud computing and backend development.
 
-<!---
-FlyingFish34/FlyingFish34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielC-34&count_private=true&show_icons=true&theme=dark)
