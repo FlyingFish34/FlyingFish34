@@ -1,5 +1,5 @@
 # Hello there 👋
-I'm Gabriel, a full time computer science student at Polytechnique Montréal. Over the years, I've learned languages like Java, Python and C++. My interests are AI, cloud computing and backend development.
+I'm Gabriel, a full time Computer Science Student at Polytechnique Montréal. Over the years, I've learned languages like Java, Python and C++. My interests are AI, cloud computing and backend development.
 
 ---
 
