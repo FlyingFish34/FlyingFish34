@@ -3,4 +3,4 @@ I'm Gabriel, a full time Computer Science Student at Polytechnique Montréal. Ov
 
 ---
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielC-34&count_private=true&show_icons=true&theme=dark)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabcomby&count_private=true&show_icons=true&theme=dark)
