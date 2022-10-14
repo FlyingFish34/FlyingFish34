@@ -4,3 +4,4 @@ I'm Gabriel, a full time Computer Engineering Student at Polytechnique Montréal
 ---
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabcomby&count_private=true&show_icons=true&theme=dark)
+<p align="center"> <https://github-readme-stats.vercel.app/api?username=gabcomby&count_private=true&show_icons=true&theme=dark" />
