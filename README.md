@@ -20,8 +20,10 @@
 <p align="center">  
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50 height="50/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="50" height="50"/>
 </p>
