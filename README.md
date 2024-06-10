@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gabcomby&count_private=true&show_icons=true&theme=dark" alt="gabcomby" />
+<p align="center"> <img src="https://github-readme-stats-gabcombys-projects.vercel.app/api?username=gabcomby&count_private=true&show_icons=true&theme=dark" alt="gabcomby" />
   
 <h2 align="center">  
   Tech Stack :
